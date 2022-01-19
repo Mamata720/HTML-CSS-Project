@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+img{
+    
+    height: 500px;
+    width: 100%;
+}
+.display{
+    width: 345px;
+    height: 311px;
+    background-color:#87ceeb;
+    text-align: center;
+    justify-content: center;  
+    margin-top: 27% ;
+    font-style: italic;
+}
+.image{
+    height: 60px;
+    width: 50px;
+    margin-top: 35px;
+}
+.data{
+    width: 345px;
+    height: 317px;
+    background-color:peru;
+    text-align: center;
+    justify-content: center; 
+    margin-top: 27% ;
+    font-style: italic;
+}
+.mauntion{
+    margin-top: 35px;
+    width: 50px;
+    height: 60px;
+}
+.new_data{
+    width: 345px;
+    height: 317px;
+    background-color:orangered;
+    text-align: center;
+    justify-content: center; 
+    margin-top: 27% ; 
+    font-style: italic; 
+}
+.icon{
+    margin-top: 35px;
+    height: 60px; 
+    width: 50px;
+}
+div.div_1{
+    display: flex;
+    margin-left: 300px; 
+    gap: 1.9rem; 
+}
+.main_div{
+    background-image: url("page.jpeg");
+    height: 500px;
+}
+.foter{
+    width: 1772px;
+    height: 120px;
+    position: relative;
+    bottom : 0;
+    margin-top: 16%;
+    background-color:#333333;
+    text-align: center;
+    padding:2em;
+    
+}
+p{
+    color: white;
+}
+h3{
+    color: white;
+}
